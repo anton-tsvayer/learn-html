@@ -1,0 +1,22 @@
+div{
+	border: 1px red solid;
+	margin: 5px;
+}
+img {
+	width:200px;
+}
+.red {
+	background-color: red;
+}
+.pink {
+	background-color: pink;
+}
+.blue {
+	background-color: blue;
+}
+.green {
+	background-color: green;
+}
+.white-letters {
+	color: white;
+}
